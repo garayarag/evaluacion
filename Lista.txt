@@ -1,1 +1,2 @@
 Lista de alumnos. Escribe tu nombre completo y usuario GITHUB
+Juan Antonio Garay Córdova Garayarag
